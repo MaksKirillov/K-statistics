@@ -1,0 +1,3 @@
+D:/Projects/C/K-statistics/cmake-build-debug/CMakeFiles/K_statistics.dir
+D:/Projects/C/K-statistics/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C/K-statistics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
